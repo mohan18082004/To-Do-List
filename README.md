@@ -2,7 +2,7 @@
 
 ![Project Preview](Project_ScreenShot/homePage.png)
 
-![Project Screenshot](Project_ScreenShot/add.png)
+![Project Screenshot](Project_ScreenShot/addText.png)
 
 # React + Vite
 
